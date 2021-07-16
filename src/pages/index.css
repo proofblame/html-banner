@@ -1,0 +1,22 @@
+/* -- normalize.css -- */
+@import url('../vendor/normalize.css');
+
+/* -- fonts -- */
+@import url('../vendor/fonts.css');
+
+/* -- Montserrat 900 -- */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+/* -- blocks -- */
+@import url('../blocks/cards/cards.css');
+
+@import url('../blocks/card/card.css');
+
+@import url('../blocks/form/form.css');
+
+/* -- wiev borders -- */
+/* * {
+  outline-width: 1px;
+  outline-style: solid;
+  outline-color: red;
+} */

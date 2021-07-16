@@ -1,0 +1,30 @@
+@import url('./_page/card_page_1.css');
+@import url('./_page/card_page_2.css');
+@import url('./_page/card_page_3.css');
+@import url('./_page/card_page_4.css');
+@import url('./_page/card_page_5.css');
+@import url('./_page/card_page_6.css');
+@import url('./_page/card_page_7.css');
+
+@import url('./__date/card__date.css');
+@import url('./__title/card__title.css');
+@import url('./__subtitle/card__subtitle.css');
+@import url('./__subtitle/_text/card__subtitle_text_large.css');
+@import url('./__link/card__link.css');
+@import url('./__list/card__list.css');
+@import url('./__form/card__form.css');
+@import url('./__button/card__button.css');
+@import url('.//__wrapper/card__wrapper.css');
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px 20px 20px;
+  box-sizing: border-box;
+  font-family: 'SF Pro Text', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  height: 100%;
+}

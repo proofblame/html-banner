@@ -1,0 +1,9 @@
+/* -- SF Pro Text 400-- */
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('./fonts/SFPro/sfpro-400.woff') format('woff'),
+    url('./fonts/SFPro/sfpro-400.woff2') format('woff2'),
+    url('./fonts/SFPro/sfpro-400.ttf') format('ttf');
+  font-style: normal;
+  font-weight: 400;
+}
